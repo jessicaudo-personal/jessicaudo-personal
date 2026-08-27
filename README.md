@@ -1,5 +1,6 @@
 <div align="center">
-# Hi, I'm Jessica Udo 👋
+ 
+# Hi, I'm Jessica 👋
  
 ### Technical PM → Building AI Products
  
@@ -9,6 +10,7 @@
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=flat&logo=readdotcv&logoColor=white)](https://github.com/jessicaudo-personal/jessicaudo-personal/blob/main/CV.pdf)
 
 </div>
+
 ---
  
 ### 🧭 About
@@ -38,9 +40,9 @@ Technical Product Manager with **7 years at Microsoft** building platform-scale,
  
 | Project | Why it matters |
 |---|---|
-| 🧠 **[AI Strategy Memo & Phased Roadmap](link-to-project-8)** | A 12-month AI investment recommendation, sequencing, and cross-functional dependency plan — how I think above the level of a single feature |
-| 🧪 **[Eval Harness](link-to-project-5)** | A real evaluation set and scoring pipeline for one of my prototypes, with before/after results after a design change |
-| 📂 **[Full project index →](link-to-portfolio-repo)** | All projects, in order, with design decisions and what I'd do differently |
+| 🧠 **AI Strategy Memo & Phased Roadmap** *(coming soon)* | A 12-month AI investment recommendation, sequencing, and cross-functional dependency plan — how I think above the level of a single feature |
+| 🧪 **Eval Harness** *(coming soon)* | A real evaluation set and scoring pipeline for one of my prototypes, with before/after results after a design change |
+| 📂 **[Full project index →](https://github.com/jessicaudo-personal/ai-pm-portfolio)** | All projects, in order, with design decisions and what I'd do differently |
  
 ---
  
@@ -50,9 +52,17 @@ Technical Product Manager with **7 years at Microsoft** building platform-scale,
 - Built an early AI-assisted software quality tool that cut a defect fix cycle from **30 days to 2 hours**, and shipped a dark-mode redesign of Azure DevOps Boards used by **5.1M monthly active users**
 - Co-founded **Black-A-Thon**, an AI-focused hackathon for Black youth in Vancouver that grew from 25 participants to over 2,000, and chaired Microsoft's Africans employee resource group, a 2,000+ person global community
 - Moved into AI PM work because the tools I was already building — access governance, developer platforms, internal ML tooling — are the exact infrastructure AI products need, and I wanted to be building *with* AI directly rather than just around it
+
 ---
- 
+
 <div align="center">
-📫 **Let's connect:** [linkedin.com/in/jessicaudo](https://linkedin.com/in/jessicaudo) · jessicato40@gmail.com
+ 
+### 📫 Let's connect
+ 
+[<img alt="Jessica Udo | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] &nbsp;&nbsp;
+[<img alt="Jessica Udo | Email" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
  
 </div>
+
+[linkedin]: https://linkedin.com/in/jessicaudo
+[gmail]: mailto:jessicato40@gmail.com
