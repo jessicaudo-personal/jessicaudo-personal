@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jessicaudo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jessicaudo)
 [![Email](https://img.shields.io/badge/Email-jessicato40%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jessicato40@gmail.com)
 ![Location](https://img.shields.io/badge/Location-Vancouver%2C%20Canada-informational?style=flat&logo=googlemaps&logoColor=white)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=flat&logo=readdotcv&logoColor=white)](https://github.com/jessicaudo-personal/jessicaudo-personal/blob/main/CV.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=flat&logo=readdotcv&logoColor=white)](https://github.com/jessicaudo-personal/jessicaudo-personal/blob/main/Jessica_Udo_Resume_Sept_2026.pdf)
 
 </div>
 
