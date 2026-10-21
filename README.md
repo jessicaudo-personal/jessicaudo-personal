@@ -40,7 +40,7 @@ Technical Product Manager with **7 years at Microsoft** building platform-scale,
  
 | Project | Why it matters |
 |---|---|
-| ⚖️ **[Model Comparison →](https://github.com/jessicaudo-personal/model-comparison/blob/main/WRITEUP.md)** | Runs the same prompts across closed and open models (OpenAI, Ollama, OpenRouter, Venice) using the OpenAI SDK, and logs latency, tokens, cost, and responses to CSV for scoring.| 
+| ⚖️ **[Model Comparison →](https://github.com/jessicaudo-personal/model-comparison/blob/main/WRITEUP.md)** | Compared a closed and an open-weights model on free-form quality and grounded QA; retrieval closed the gap for both, and a small local model handled extract-and-quote well. | 
 | ⚙️ **[Text Generation App →](https://github.com/jessicaudo-personal/ai-pm-portfolio/tree/main/02-text-generation-app)** | A working CLI tool translating raw API parameters (temperature, tokens) into plain-language controls — prompt design and UX translation in practice |
 | 🍳 **[Recipe Generator →](https://github.com/jessicaudo-personal/ai-pm-portfolio/tree/main/03-recipe-generator)** | A multi-turn AI tool generating recipes, shopping lists, and nutrition info from one conversation — context management and dynamic cost scaling in practice |
 | 🧠 **AI Strategy Memo & Phased Roadmap** *(coming soon)* | A 12-month AI investment recommendation, sequencing, and cross-functional dependency plan — how I think above the level of a single feature |
